@@ -1,5 +1,7 @@
 # AR DenoFest
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 This project displays randomly positioned and rotating Deno logo images in a 3D scene.
 
 ## Demo

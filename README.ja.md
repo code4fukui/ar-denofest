@@ -1,16 +1,16 @@
-# DenoFest Megane
+# AR DenoFest
 
-AR（拡張現実）で表示されるDenoのロゴを、Webブラウザ上で3D空間に表示するデモです。
+このプロジェクトは、3D空間にランダムに配置され、回転するDenoのロゴ画像を表示するものです。
 
 ## デモ
-https://code4fukui.gtihub.io/ar-denofest/
+https://code4fukui.github.io/ar-denofest/
 
 ## 機能
-- Denoのロゴを自動的に3D空間に配置
-- ロゴが自動的に回転アニメーションを行う
+- 3D空間にRandomにDenoのロゴ画像を配置する
+- ロゴ画像が自動的に回転するアニメーションを行う
 
 ## 使い方
-ブラウザでデモページを開くと、Denoのロゴが3D空間に表示されます。
+ブラウザでindex.htmlファイルを開くと、Denoのロゴが3D空間に表示されます。
 
 ## ライセンス
 MIT License
