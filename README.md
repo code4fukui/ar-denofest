@@ -17,4 +17,4 @@ None
 No installation required. Open the `index.html` file in a web browser.
 
 ## License
-MIT License
+MIT License — see [LICENSE](LICENSE).
