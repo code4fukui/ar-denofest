@@ -1,8 +1,20 @@
-# DenoFest Megane
+# AR DenoFest
 
-https://code4fukui.gtihub.io/ar-denofest/
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
 
-## logo
+This project displays randomly positioned and rotating Deno logo images in a 3D scene.
 
-- https://en.wikipedia.org/wiki/File:Deno_2021.svg
+## Demo
+https://code4fukui.github.io/ar-denofest/
 
+## Features
+- Displays randomly positioned and rotating Deno logo images in a 3D scene
+
+## Requirements
+None
+
+## Usage
+No installation required. Open the `index.html` file in a web browser.
+
+## License
+MIT License — see [LICENSE](LICENSE).
